@@ -1,3 +1,4 @@
+# Warning. This branch is for testing purposes and integration of a modified XBE. Do not use this as a daily.
 # UIX-Ultra-Lite
 Modern/Re-Implemented Patches and Scripts for the Xbox Dashboard #5960
 * Completely based on old school patches and hex edits, not a source modification. So you don’t need to feel "dirty" about using it.
